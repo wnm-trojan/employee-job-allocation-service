@@ -1,3 +1,10 @@
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - Job Allowcation Service
+
+    Description - Department Model.
+"""
 package org.assignment.empmanage.department;
 import javax.persistence.*;
 import java.util.Set;

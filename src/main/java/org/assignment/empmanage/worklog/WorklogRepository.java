@@ -1,3 +1,11 @@
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - Job Allowcation Service
+
+    Description - Worklog Repository.
+"""
+
 package org.assignment.empmanage.worklog;
 
 import org.springframework.data.jpa.repository.JpaRepository;

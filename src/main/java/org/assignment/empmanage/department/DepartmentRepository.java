@@ -1,3 +1,11 @@
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - Job Allowcation Service
+
+    Description - Department Repository.
+"""
+
 package org.assignment.empmanage.department;
 
 import org.springframework.data.jpa.repository.JpaRepository;

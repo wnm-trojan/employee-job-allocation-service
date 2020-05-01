@@ -1,3 +1,11 @@
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - Job Allowcation Service
+
+    Description - Worklog Model.
+"""
+
 package org.assignment.empmanage.worklog;
 
 import javax.persistence.*;

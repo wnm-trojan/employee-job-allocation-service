@@ -1,3 +1,11 @@
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - Job Allowcation Service
+
+    Description - Joballocation Model.
+"""
+
 package org.assignment.empmanage.joballocation;
 
 import org.assignment.empmanage.department.Department;

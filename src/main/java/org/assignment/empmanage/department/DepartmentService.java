@@ -1,3 +1,11 @@
+"""
+    @author - Waruna Nissanka
+    @email - warunanissanka44@gmail.com
+    @project - Job Allowcation Service
+
+    Description - Department Service.
+"""
+
 package org.assignment.empmanage.department;
 
 import org.assignment.empmanage.employee.Employee;
