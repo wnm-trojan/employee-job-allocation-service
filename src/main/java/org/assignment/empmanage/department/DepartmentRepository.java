@@ -4,7 +4,7 @@
     @email - warunanissanka44@gmail.com
     @project - Job Allowcation API Service
 
-    @Description - Department Repositoey
+    @Description - Department Repository
 """
 */
 
