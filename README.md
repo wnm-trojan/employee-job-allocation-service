@@ -1,9 +1,10 @@
 # simple-employee-job-allocation-service
 <p>Java Spring Boot Employee job allocation CRUD service</p>
-<p>This is a simple Employee job allocation RESTful API Service for study perpose only.</p>
+<p>This is a simple Employee job allocation RESTful API Service for study purpose only.</p>
 
 ## API Services
-<p style="padding-left: 30px;">Department Employee</p>
+<p style="padding-left: 30px;">Department</p>
+<p style="padding-left: 30px;">Employee</p>
 <p style="padding-left: 30px;">Job Allocation</p>
 <p style="padding-left: 30px;">Work Log&nbsp;&nbsp;</p>
 
