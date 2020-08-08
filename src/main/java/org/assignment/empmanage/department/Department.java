@@ -9,8 +9,8 @@
 */
 
 package org.assignment.empmanage.department;
+
 import javax.persistence.*;
-import java.util.Set;
 
 @Entity
 @Table(name = "departments")
